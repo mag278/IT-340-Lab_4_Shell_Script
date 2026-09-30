@@ -1,3 +1,4 @@
+
 #!/bin/bash
 # Log the date and memory usage
 
